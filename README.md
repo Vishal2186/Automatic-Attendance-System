@@ -1,6 +1,6 @@
 # 🎓 Automatic Attendance System with Face Recognition
 
-This project is a Python-based attendance system that uses real-time face recognition to automatically mark student attendance. Built with `face_recognition`, `OpenCV`, and `dlib`, it streamlines the attendance process with AI-powered face matching.
+> This project is a Python-based attendance system that uses real-time face recognition to automatically mark student attendance. <br> Built with `face_recognition`, `OpenCV`, and `dlib`, it streamlines the attendance process with AI-powered face matching.
 
 ## 📸 Features
 
